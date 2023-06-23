@@ -1,0 +1,17 @@
+
+
+{
+    "question" : [
+        {
+        "title" : "Quel célèbre dictateur dirigera  l'URSS du milieu des années 1920 à 1953?",
+        "correctAnswer" : 1,
+        "answers" : ["Stalin", "Lenin", "Stromae"]   
+        },
+
+        {
+        "title" : "Une autre question ??",
+        "correctAnswer" : 3,
+        "answers" : ["Clickez ici.", "C'est ici :)", "Moi, moi, moi!"]   
+        }
+    ]
+}
